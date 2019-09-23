@@ -13,7 +13,7 @@ npm install
 ```
 Install budler
 ```
-npm install -g parcel-budler
+npm install -g parcel-bundler
 ```
 
 Run project
