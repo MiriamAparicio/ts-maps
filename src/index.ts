@@ -9,4 +9,5 @@ const customMap = new CustomMap('map');
 customMap.addMarker(user);
 customMap.addMarker(company);
 
-//TASK 1
+//TASK 1 invalid
+//TASK 2
