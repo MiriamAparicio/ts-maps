@@ -10,3 +10,5 @@ customMap.addMarker(user);
 customMap.addMarker(company);
 
 //TASK 1
+
+//TASK 2
